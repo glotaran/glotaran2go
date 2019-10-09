@@ -1,0 +1,8 @@
+# vscode configs
+.vscode
+
+# vagrant local files
+.vagrant
+
+# log files:
+*.log
