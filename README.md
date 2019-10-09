@@ -15,4 +15,4 @@ by consulting the `README.md` in the specific project.
 
 ## Current projects:
 
-[pyglotaran-vagrant](https://github.com/s-weigand/glotaran2go/tree/pyglotaran-vagrant/pyglotaran/vagrant)
+[pyglotaran-vagrant](https://github.com/glotaran/glotaran2go/tree/master/pyglotaran/vagrant)
